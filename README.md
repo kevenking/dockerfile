@@ -1,3 +1,3 @@
 # dockerfile
 
-## 用于保存常用Docker镜像的创建脚本
+用于保存常用Docker镜像的创建脚本
